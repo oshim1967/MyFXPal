@@ -1,0 +1,16 @@
+/build/
+/.dart_tool/
+/.pub-cache/
+/.pub/
+/ios/Pods/
+/ios/Flutter/App.framework
+/ios/Flutter/engine.xcframework
+/ios/Flutter/flutter_assets/
+/ios/Flutter/.last_build_id
+/ios/.symlinks/
+/ios/Runner/GeneratedPluginRegistrant.*
+/android/key.properties
+/android/local.properties
+/android/.gradle/
+/android/app/build/
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
